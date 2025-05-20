@@ -63,6 +63,23 @@ Use filters to explore programs by:
 
 ---
 
+## 🧭 Code Walkthrough
+
+This project is structured around a single Jupyter notebook:  
+📓 `global-edu-roi-analysis.ipynb`
+
+### Key Sections:
+- **Data Import & Cleaning**: Reads all 3 datasets and performs preprocessing (handling missing values, normalizing costs, etc.)
+- **Feature Engineering**: Calculates total cost, ROI, cost per rank, and QS tier grouping
+- **Exploratory Data Analysis (EDA)**: 
+  - Tuition vs Rent tradeoffs
+  - ROI by Region, Degree Level, QS Tier, and Program
+  - KMeans clustering of cost types
+- **Outlier Detection**: Removes extreme values using Z-score filtering
+- **Dashboard Prep**: Final dataset export as `education_roi_looker.csv` for Looker Studio use
+
+---
+
 ## 📬 Contact
 
 For feedback or collaboration:  
