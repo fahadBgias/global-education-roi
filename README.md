@@ -13,11 +13,11 @@ This project explores the **true cost and ROI (return on investment)** of intern
 
 ## 📦 Datasets Used
 
-| Dataset              | Description                                 | Key Fields                                  |
-|----------------------|---------------------------------------------|---------------------------------------------|
-| Cost of Education    | Tuition, living, visa, and insurance costs  | Country, City, Program, Tuition, Rent, Duration |
-| QS Rankings (2024)   | Global university rankings                  | University, Country, QS Rank, QS Tier       |
-| Salary Dataset       | Average annual income by country            | Country, Avg_Income_USD                     |
+| Dataset | Description | Key Fields |
+|---------|-------------|-------------|
+| [Cost of Education](https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education) | Tuition, living, visa, and insurance costs  | Country, City, Program, Tuition, Rent, Duration |
+| [QS Rankings (2024)](https://www.kaggle.com/datasets/joebeachcapital/qs-world-university-rankings-2024) | Global university rankings | University, Country, QS Rank, QS Tier |
+| [Salary Dataset](https://www.kaggle.com/datasets/zedataweaver/global-salary-data/code) | Average annual income by country | Country, Avg_Income_USD |
 
 ---
 
