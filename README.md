@@ -1,5 +1,5 @@
 
-# 🌍 Global Cost vs Value of Higher Education — Capstone Project
+# 🌍 Global Cost vs Value of Higher Education 
 
 **Author:** Fahad Bin Gias
 
